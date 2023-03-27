@@ -42,7 +42,8 @@ caption {
    min-height: 40%;
  }
  tr:nth-of-type(odd) { 
-   back
+   background-color: rgb(255, 235, 178);
+   border: 2px solid gray;
 
  }
 
