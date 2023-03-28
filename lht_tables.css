@@ -78,6 +78,17 @@
       width: 85%;
     } 
 
+   td, th{
+      border: 1px solid gray ;
+      font-size: 0.85em;
+      font-weight: normal;
+      padding: 5px;
+      vertical-align: top;
+      width: 14.28 ;
+      word-wrap: break-word;
+
+   }
+
 
 
     
